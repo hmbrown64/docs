@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Sending Attachments with Digioh
-title: Sending Attachments with Digioh
+  title: Sending Attachments
+title: Sending Attachments
 group: partners
 weight: 0
 layout: page
